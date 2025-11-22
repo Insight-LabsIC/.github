@@ -1,9 +1,9 @@
 ---
 name: Code Change Request
-about: Propose and track changes to the existing codebase, features, or architecture.
+about: Propose and track changes to production source code
 ---
 
-## Code Change Request
+# Code Change Request
 Client: 
 
 Affects client environment: 
@@ -13,10 +13,10 @@ Interacts with SAP:
 POC made aware: 
 
 
-## Description
+## Description and Justification
 
 
-## Timeframe
+## Target Implementation Date
 
 
-## Notes
+## Additional Notes
